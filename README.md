@@ -10,7 +10,7 @@ A beautiful, browser-based signature generator. Enter your first and last name t
 - No installation needed — pure HTML/CSS/JS
 
 ## Live Demo
-[Click here to try it](https://Ahmed2-5.github.io/signature-generator/signature.html)
+[Click here to try it](https://Ahmed2-5.github.io/signature-generator/index.html)
 
 ## How to use
 Just open `signature.html` in any browser!
